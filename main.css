@@ -1,0 +1,31 @@
+body{
+	font-family: sans-serif;
+}
+
+h2 {
+	color: orange;
+	text-shadow: 2px 2px;
+	font-size: 35px;
+	font-style: italic;
+	margin-left: 150px;
+}
+
+.goblin{
+	margin-left: 150px;
+	font-size: 20px;
+}
+
+.largeLetter::first-letter{
+	font-size: 60px;
+}
+
+.orange{
+	color: orange;
+	font-weight: bold;
+	line-height: 160%;
+}
+
+.footer{
+	text-align: center;
+	font-size: 80%;
+}
